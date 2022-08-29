@@ -1,0 +1,50 @@
+body{
+	background-image: url(code.jpg);
+	background-size:cover;
+	border-image-repeat: none,;
+}
+.card{
+	height: 25em;
+	width: 20em;
+	text-align: center;
+	color: black;
+	margin: 0 auto;
+	float: none;
+	margin-top: 150px;
+	margin-bottom: 10px;
+	border-image-width: 10em;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	background-color:black;
+}
+img{
+	border-radius:50% ;
+}
+.btn{
+
+	margin-left: 90px;
+	text-align: center;
+	width: 130px;
+	color: darkred;
+	background-color: deeppink;
+	border-radius:10px;
+	transition: ;
+	hover;
+}
+.container{
+	display: flex;
+	justify-content: safe center ;
+	background-color: black;
+	border-radius: 50%;
+
+
+}
+.btn2{
+	margin: 1px;
+	margin-left: 40px;
+	margin-right: 40px;
+	text-align: center;
+	width: 130px;
+	color: ghostwhite;
+	background-color: deeppink;
+	border-radius:50%;
+}
